@@ -34,6 +34,7 @@ p {
 img {
 height: 200px
 }
-categoria-videos {
-displey: flex;
+
+.categoria-videos {
+ displey: flex;
 }
